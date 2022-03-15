@@ -1,5 +1,8 @@
 #include <iostream>
+#include <string>
 using namespace std;
 int main(){
-cout<<"hello world"<<endl;
+string name;
+cin >> name;
+cout<<"hello world " << name <<endl;
 }
