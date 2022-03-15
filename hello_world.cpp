@@ -1,7 +1,7 @@
 #include <iostream>
-#include <string>
+#include <string> // comment
 int main(){
-std::string name;
-std::cin >> name;
-std::cout<<"hello world " << std::name <<std::endl;
+std::string name; // cooment
+std::cin >> name; // add ad ad ad ad ad ad ad ad ad 
+std::cout<<"hello world " << std::name <<std::endl; // wowowowowowowow
 }
