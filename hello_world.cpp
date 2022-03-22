@@ -3,7 +3,7 @@
 int
 main()
 {
-  std::string name; // jvkhjvkhjv
-  std::cin >> name; // ljkhljl
-  std::cout << "hello world " << std::name << std::endl; // lkhhll
+  std::string name; // look at me     
+  std::cin >> name;
+  std::cout << "hello world " << std::name << std::endl;
 }
